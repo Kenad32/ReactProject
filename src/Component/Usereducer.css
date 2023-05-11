@@ -1,0 +1,7 @@
+button {
+    height: 40px;
+    background-color: blue;
+    color: whitesmoke;
+    margin-inline: 10px;
+    border-radius: 5px;
+}
